@@ -1,6 +1,11 @@
 # bloc_theme_chat
 A demo app for flutter theme change with bloc and shared preference 
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=PrZ2yCpFCUc
+" target="_blank"><img src="http://img.youtube.com/vi/PrZ2yCpFCUc/1.jpg" 
+alt="video " width="300" height="300" border="10" /></a>
+
+SCREENSHOTS :
 <table style="height:300px">
   <col>
   <col valign="bottom">
